@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rishikesh2298
+- 👋 Hi, I’m Rishikesh Kumar
 - 👀 I’m interested in coding and sketching
 - 🌱 I’m currently learning C and Java Script
 - 📫 How to reach me Linked in Profile : https://www.linkedin.com/in/rishikesh-kumar-a3ba55319/
